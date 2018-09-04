@@ -5,7 +5,7 @@
 	<groupId>com.github.alexvictoor</groupId>
 	<artifactId>pitest-cucumber-plugin</artifactId>
 	<name>pitest-cucumber-plugin</name>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.1-SNAPSHOT</version>
     <url>https://github.com/alexvictoor/pitest-cucumber-plugin</url>
     <description>Cucumber PIT integration plugin</description>
 
@@ -90,8 +90,6 @@
             <version>1.6.1</version>
             <scope>test</scope>
         </dependency>
-
-
     </dependencies>
 
     <build>
